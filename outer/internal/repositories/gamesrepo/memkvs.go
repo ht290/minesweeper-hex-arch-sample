@@ -5,7 +5,7 @@ import (
 
 	"github.com/matiasvarela/errors"
 
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/domain"
+	"github.com/matiasvarela/minesweeper-hex-arch-sample/core/domain"
 	"github.com/matiasvarela/minesweeper-hex-arch-sample/pkg/apperrors"
 )
 

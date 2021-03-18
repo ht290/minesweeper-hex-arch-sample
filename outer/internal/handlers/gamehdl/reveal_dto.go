@@ -1,6 +1,6 @@
 package gamehdl
 
-import "github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/domain"
+import "github.com/matiasvarela/minesweeper-hex-arch-sample/core/domain"
 
 type BodyRevealCell struct {
 	Row uint   `json:"row"`

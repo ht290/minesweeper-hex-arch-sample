@@ -8,8 +8,8 @@ import (
 	"github.com/golang/mock/gomock"
 
 	"github.com/matiasvarela/errors"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/domain"
-	"github.com/matiasvarela/minesweeper-hex-arch-sample/internal/core/service/gamesrv"
+	"github.com/matiasvarela/minesweeper-hex-arch-sample/core/domain"
+	"github.com/matiasvarela/minesweeper-hex-arch-sample/core/service/gamesrv"
 	"github.com/matiasvarela/minesweeper-hex-arch-sample/mocks/mockups"
 	"github.com/matiasvarela/minesweeper-hex-arch-sample/pkg/apperrors"
 )
